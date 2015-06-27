@@ -1,0 +1,5 @@
+RoboMe code which perform
+
+increases speed when its inclined up and decreases speed when its inclined down slope
+
+and it will stop when red signal appears and it takes a pic of stop
